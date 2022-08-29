@@ -158,7 +158,7 @@ VALUES ('client-vaccination', 'vaccination-service', '$2y$10$5qOofKyk/tJEnpxLiT3
 
 **Documentacion**
 
-La documentación de las api's se encuentra en [Links](http://localhost:9090/vaccination-service/swagger-ui/).
+Para acceder a la documentación de las api's, la aplicación debe estar en ejecución, para ingresar a la misma seguir el siguiente link [Links](http://localhost:9090/vaccination-service/swagger-ui/).
 
 **Postman Service**
 
